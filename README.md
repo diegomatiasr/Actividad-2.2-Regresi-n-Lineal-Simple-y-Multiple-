@@ -1,0 +1,1 @@
+# Actividad-2.2-Regresi-n-Lineal-Simple-y-Multiple-
